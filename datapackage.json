@@ -1,0 +1,1 @@
+{"name":"my-first-dataset","title":"My first dataset","description":"testing testing 123","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":"ODI Labs","web":""}],"resources":[{"name":"My first file","mediatype":"text/csv","description":"sdfsdf","path":"data/my-first-file.csv"}]}
